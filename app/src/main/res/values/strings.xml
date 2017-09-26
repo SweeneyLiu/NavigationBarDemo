@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationBarDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab1_fragment">tabl</string>
+    <string name="tab2_fragment">tab2</string>
+    <string name="tab3_fragment">tab3</string>
+</resources>
